@@ -1,2 +1,0 @@
-# webcours
-assignments
